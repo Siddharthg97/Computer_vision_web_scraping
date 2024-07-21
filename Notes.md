@@ -1,5 +1,5 @@
+**Semantic segmentation**
 
-***Semantic segmentation***
 Color segmentation using threshold -
 https://medium.com/@flippygarcia/color-image-segmentation-using-python-part-1-11319b4dccad
 https://medium.com/srm-mic/color-segmentation-using-opencv-93efa7ac93e2
