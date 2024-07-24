@@ -1,7 +1,7 @@
-***Note :Refer bookmarks links*** 
-***Approaches***
-1)Selenium,ulib,request for extracting html file and beautifulsoup for data extraction
-2)Langchain based approach Asynchromium_document with beatufulsoup for data extraction
+***Note :Refer bookmarks links***  <br />
+***Approaches*** <br />
+1)Selenium,ulib,request for extracting html file and beautifulsoup for data extraction <br />
+2)Langchain based approach Asynchromium_document with beatufulsoup for data extraction <br />
 
 #Libraries and their usecases <br />
 
