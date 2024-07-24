@@ -15,3 +15,9 @@
    
 ## 2)library newspaper can be used for extraction of data from urls. <br />
    i) refer link :https://newspaper.readthedocs.io/en/latest/ <br />
+
+
+
+## 3) Pdf from url link extraction <br />
+    https://www.geeksforgeeks.org/downloading-pdfs-with-python-using-requests-and-beautifulsoup/
+
