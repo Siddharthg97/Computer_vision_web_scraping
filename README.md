@@ -5,7 +5,9 @@
 
 ## Libraries and their usecases for web scrapping <br />
 1) Request to get access to a url link and returns the response object.( https://www.w3schools.com/python/ref_requests_get.asp ) <br />
-2) 
+2) library newspaper can be used for extraction of data from urls. <br />
+   i) refer link :https://newspaper.readthedocs.io/en/latest/ <br />
+
 ## 1) Language detection <br />
    i)detect :libraries to detect language fast-langdetect,langdetect,textblob,lingua. <br />
      1. fast-langdetect - https://github.com/LlmKira/fast-langdetect <br />
@@ -14,8 +16,6 @@
    ii)There are language detection and there probability predicted for it. <br />
    iii)If text contains multiple languages, then use split_lang. Refer link - https://github.com/DoodleBears/split-lang/blob/main/split-lang-demo.ipynb
    
-## 2)library newspaper can be used for extraction of data from urls. <br />
-   i) refer link :https://newspaper.readthedocs.io/en/latest/ <br />
 
 
 
