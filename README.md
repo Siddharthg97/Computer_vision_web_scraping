@@ -8,7 +8,7 @@
 2) 
 ## 1) Language detection <br />
    i)detect :libraries to detect language fast-langdetect,langdetect,textblob,lingua. <br />
-     1. fast-langdetect - https://github.com/LlmKira/fast-langdetect <br />
+     1. fast-langdetect or fasttext-langdetect - https://github.com/LlmKira/fast-langdetect  https://pypi.org/project/fasttext-langdetect/ <br />
      2. https://www.geeksforgeeks.org/detect-an-unknown-language-using-python/ <br />
      3. https://medium.com/@monigrancharov/text-language-detection-with-python-beb49d9667b3 <br />
    ii)There are language detection and there probability predicted for it. <br />
