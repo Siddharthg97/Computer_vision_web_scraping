@@ -16,7 +16,7 @@
    
 ## 2)library newspaper can be used for extraction of data. <br />
    i) refer link :https://newspaper.readthedocs.io/en/latest/ <br />
-   Newspaper can be used to extract data from url, html/text .
+   Newspaper can be used to extract data from url, html/text.
 
 
 ## 3) Pdf from url link extraction followed by u<br />
