@@ -14,9 +14,9 @@
    ii)There are language detection and there probability predicted for it. <br />
    iii)If text contains multiple languages, then use split_lang. Refer link - https://github.com/DoodleBears/split-lang/blob/main/split-lang-demo.ipynb
    
-## 2)library newspaper can be used for extraction of data from urls. <br />
+## 2)library newspaper can be used for extraction of data. <br />
    i) refer link :https://newspaper.readthedocs.io/en/latest/ <br />
-
+   Newspaper can be used to extract data from url, html/text .
 
 
 ## 3) Pdf from url link extraction followed by u<br />
