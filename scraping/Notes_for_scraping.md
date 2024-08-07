@@ -31,10 +31,9 @@
 --- For content is html/text is content  <br />
 3.Parallely also soup the response html from resquest library.  <br />
 4.Now using try except to filter out document from soup output using 3 ways -   <br />
-  i. using id, class and other tags 
-  refer following link - https://www.geeksforgeeks.org/how-to-scrape-websites-with-beautifulsoup-and-python/
-  ii.
-  iii.
+  i. using id, class and other tags like div
+     refer following link - https://www.geeksforgeeks.org/how-to-scrape-websites-with-beautifulsoup-and-python/
+  ii. newspaper library
 ---- For content is image/web <br />
 
 
