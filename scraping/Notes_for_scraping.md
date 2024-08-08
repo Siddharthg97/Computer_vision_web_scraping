@@ -1,7 +1,8 @@
 ***Note :Refer bookmarks links***  <br />
-***Approaches*** <br />
+***Approaches for web scraping*** <br />
 1)Selenium,ulib,request for extracting html file and beautifulsoup for data extraction <br />
 2)Langchain based approach Asynchromium_document with beatufulsoup for data extraction <br />
+(refer link - https://python.langchain.com/v0.1/docs/use_cases/web_scraping/) <br />
 
 ## Libraries and their usecases for web scrapping <br />
 1) Request to get access to a url link and returns the response object.( https://www.w3schools.com/python/ref_requests_get.asp ) <br />
@@ -25,7 +26,7 @@
 ## 4) Pdf to image and image to content
 
 
-***Steps to perform scraping :*** <br />
+***Steps to perform scraping (without langchian)  :*** <br />
 1.Runing the request library to get response  <br />
 2.Now based on response status code i.e. 200 use newspaper library to perform scraping.  <br />
 --- For content is html/text is content  <br />
